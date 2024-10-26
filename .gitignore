@@ -1,0 +1,10 @@
+admin-service-deployment.yaml
+api-service-deployment.yaml
+chat-service-deployment.yaml
+notification-service-deployment.yaml
+postgres-deployment.yaml
+postgres-pvc.yaml
+problem-service-deployment.yaml
+rabbitmq-deployment.yaml
+redis-deployment.yaml
+user-service-deployment.yaml
